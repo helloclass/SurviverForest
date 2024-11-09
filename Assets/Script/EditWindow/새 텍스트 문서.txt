@@ -1,0 +1,13 @@
+Attack 5 (selector)
+Damage 6 (맞고 계속 싸움, 맞고 도망) (condition, selector)
+Death 4 (selector)
+Fall (High, Low), (Start, idle, end)
+Idle (selector), (일어서서 취하는 idle은 반드시 끝에 stand 2 seat으로)
+Jump selector
+Run (RL)
+Sleep 8
+Trot (RL) -> 걷기
+Walk (RL) -> 걷기
+Turn (RL)
+
+Walk_Back (RL) -> 걷기
